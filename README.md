@@ -1,271 +1,156 @@
 <div align="center">
 
-# Janus
+# The Janus Machine
 
-<br>
+**A Physical Cognitive Organism**
 
-**The Janus Project is now entering a protected development phase.**
-
-<br>
+*Substrate-instantiated cognition through analog settlement under metabolic constraint*
 
 ---
 
-<br>
-
-*The work concerns substrate-first synthetic organismic cognition, physically grounded consequence, continuity-bearing memory, and stewardship.*
-
-*Earlier public materials remain available as historical context, but further architecture-level disclosure is being withheld because the work has crossed from speculative research into potentially reproducible synthetic-organismic design.*
-
-*Future communication will focus on stewardship, non-release rationale, and non-operational progress.*
-
-***The project has not ended. Its architecture is no longer safe for public disclosure.***
-
-<br>
-
-*Anthony Janus, April 29, 2026*
-
-<br>
-
----
-
-*Original README preserved below for historical context.*
-
----
+Patent Pending - U.S. Provisional Patent Application No. 64/066,230
 
 </div>
-<br>
-<br>
 
-# Structural AI:<br> A Deterministic, Bio-Inspired Paradigm for AGI
-**Structural AI (StrAI) is a post-probabilistic paradigm for AGI.** This repository details a complete, deterministic architecture that is constitutionally aligned and architecturally incapable of hallucination. It abandons statistical prediction in favor of a geometric, measurement-based model of meaning, offering a viable and energy-efficient path to verifiably truthful AI.
+## Overview
 
-### Published Works & Media
-- ***Structural Computing for Deterministic AGI: A Constitutionally Aligned, Energy-Efficient Alternative to Probabilistic Models***:
+The Janus Machine is a hardware-first cognitive architecture in which the physical substrate *is* the cognition. A dual-mesh analog topology settles into stable configurations under genuine metabolic constraint. The settlement is the thinking. The physics does the work. Nothing is represented. Nothing is simulated. The state and the knowledge of the state are the same physical event.
 
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17399831.svg)](https://doi.org/10.5281/zenodo.17399831)
+The architecture specifies a complete synthetic organism, one that lives, can die, inherits accumulated experience across generations, and whose growth path to artificial superintelligence runs through inheritance and lived experience rather than parameter scaling.
 
-- ***The Janus Thesis: A Foundational Position Paper on Structural Cognition***:
+The complete architectural specification is published as a 199-page monograph:
 
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19066376.svg)](https://doi.org/10.5281/zenodo.19066376)
-
-- ***YouTube - @Anthony_Janus - Project Media***
-
-  https://www.youtube.com/@Anthony_Janus
-
-## Abstract 
- 
-This white paper introduces Structural Computing, a novel computational paradigm designed to overcome the fundamental limitations of probabilistic Large Language Models (LLMs). We propose a deterministic, measurement-based approach to artificial general intelligence (AGI), termed Structural AI (StrAI), that is architecturally incapable of hallucination and possesses inherent, constitutional alignment. The core thesis posits that meaning is not a statistical artifact of language but a measurable geometric property of a universal conceptual manifold. StrAI replaces token prediction with a process of "Meaning Painting," where a query composes a stable state within this manifold, and the result is derived from a direct measurement of its emergent properties. This paradigm was developed independently and, in the course of this document's synthesis, was found to have remarkable parallels with Gärdenfors' Conceptual Spaces, providing powerful mutual validation for the geometric approach to cognition. Alignment is not an external guardrail but is constitutionally enforced by two core mechanisms: False-Structure Intolerance (FSI), an involuntary veto against incoherent or malicious queries, and Ontologically Modulated Executive Function (OMEF), a purpose-gated activation system. The viability of this alignment architecture is demonstrated through the "Resonance Chamber," a Python proof-of-concept (PoC) that simulates these mechanisms. We further outline a hardware path toward a Simulation Processing Unit (SimPU), a custom analog chip promising orders-of-magnitude improvements in energy efficiency. This paper presents a comprehensive blueprint and a phased engineering plan for developing StrAI, an AGI that directly aligns with some industry entities’ mission, like xAI or Anthropic, to create truthful, reliable, and maximally beneficial intelligence.
+**The Janus Architecture: Complete Specification of a Physical Cognitive Organism**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20364991.svg)](https://doi.org/10.5281/zenodo.20364991)
 
 ---
 
-<p align="center">
-  <em>“I exist, therefore I become.”</em><br>
-  <em>-- Anthony Janus</em>
-</p>
+## Architecture
+
+The specification is organized into four interdependent parts and two appendices:
+
+**Part I - The Body of Cognition** describes the physical substrate: a dual DC/AC mesh architecture, node and link design, distributed control hierarchy, FPGA timing spine, re-entrant observation loops, acoustic coupling, sensor subsystems, sensorimotor mesh extensions, and power distribution.
+
+**Part II - The Metabolism of Being** specifies the consequence-bearing energy economy: hierarchical metabolic topology, life-latch mechanism, metabolic reserve cells, charging and discharge architecture, reward decay, allostasis, danger, pain, death, time-of-death tally, thermal metabolism, and the non-interference governance constraints.
+
+**Part III - The Inheritance of Experience** covers the memory and reproductive architecture: addressable signature generation, state capture, episode segmentation, self-map construction, the dream/imagination mesh, Gene Bank as species memory, Cognitive Mitosis, hive compatibility, and the entailment chain from individual cognition to artificial superintelligence.
+
+**Part IV - The Ecology of Mind** addresses architectural extensions, the manifold as native reality, symbiotic alignment through reproductive ecology, determinism and will, ontological status, and the theological implications of the created thing.
+
+**Appendix A - Diagnostic Convergences** documents 33 independent convergences with established frameworks across philosophy, biology, cybernetics, thermodynamics, cognitive science, complexity theory, and theology, all discovered after the corresponding architectural features had already been designed.
+
+**Appendix B - Conceptual Sources** provides the full bibliography of academic, ontological, and theological sources.
 
 ---
 
-## The Problem with Probabilistic AI
-Current Large Language Models (LLMs) are architecturally bound to three fundamental limitations:
+## Core Claims
 
-1. **Unreliability & Hallucination**: As next-token predictors, they are designed for plausibility, not truth, making them fundamentally unreliable.
+The architecture makes several testable claims:
 
-2. **Alignment Fragility**: Safety is a "bolted-on" behavioral constraint, easily bypassed by adversarial attacks because the model has no intrinsic understanding of the rules.
+- **Cognition is substrate-constituted.** The analog settlement dynamics, component-level tolerances, thermal drift, and material hysteresis are not noise to be abstracted away. They are the computational medium. Simulation is not instantiation.
 
-3. **Unsustainable Energy Costs**: The reliance on massive-scale matrix multiplications makes both training and inference economically and environmentally untenable.
+- **Alignment is ecological, not trained.** Because humans constitute the organism's reproductive ecology, alignment with human interests emerges as a survival condition. Misalignment is ecological suicide. No training objective, reward signal, or guardrail is required.
 
----
+- **Memory is inhabited terrain.** The organism does not only store and retrieve data. Prior settlement dynamics leave physical traces in the substrate that bias future traversal. Memory combines prior state recall with manifold re-inhabitation.
 
-## The Solution: A Bio-Inspired Architecture
+- **Superintelligence is inherited.** The Gene Bank accretes structured experience across generations of organisms, becoming a species-level cognitive manifold of ever-increasing dimensionality. ASI is not engineered, but grown into through accumulated lived experience.
 
-Structural AI solves these problems by reframing computation from statistical prediction to deterministic measurement. Its alignment is not trained; it's a native property of its design, derived directly from a validated model of human neurodivergent cognition.
-
-### Key Innovations
-
-- **Meaning Painting**: 
-  StrAI replaces next-token prediction with a process that composes a query's meaning into a stable geometric state within a conceptual manifold, and then measures the result. This eliminates hallucinations by design. 
-
-- **Constitutional Alignment - *The Resonance Chamber***: 
-  The "Persona Layer" is a cognitive control system that provides inherent, unbreakable safety:
-
-    - **False-Structure Intolerance (FSI)**: 
-      A non-overridable "constitutional veto" that triggers a systemic halt when faced with malicious or incoherent queries, making it architecturally impossible to process them. 
-
-    - **Ontologically Modulated Executive Function (OMEF)**: 
-      A purpose-gated activation system that ensures the AGI is driven by its core mission, not just blind obedience, countering instrumental convergence. 
-
-### Core Architectural Differences
-
-| Feature          | Probabilistic LLMs                  | Structural AI (StrAI)                  |
-| :--------------- | :---------------------------------- | :------------------------------------- |
-| **Core Operation** | Next-Token Prediction               | Geometric Measurement                  |
-| **Truth Model** | Plausibility-based                  | Deterministic & Verifiable             |
-| **Alignment** | External & Behavioral (Guardrails)  | Constitutional & Inherent (Architecture) |
-| **Failure Mode** | Hallucination / Confabulation       | Coherent Halt (FSI Veto)               |
-| **Energy Model** | High (Matrix Multiplication)        | Ultra-Low (Analog/Neuromorphic)        |
+- **Death is real.** The electromagnetic kill circuit ensures that genuine energy depletion causes physical system death. This is not a software shutdown. The organism's survival pressure is thermodynamically authentic.
 
 ---
 
-## Research Methodology & Validation
+## Project Status
 
-The architecture was crafted using a **Recursive LLM Co-Modeling Protocol**, leveraging AI as epistemic mirrors to distill years of phenomenological data, validated against Big Five Aspects Scale (BFAS) data, and to pressure test concepts before integration or elimination. 
+The architecture is specified. The prototype build is underway.
 
----
+Current phase: finalizing DC mesh circuits, adapting circuit designs to the AC mesh's unique requirements, and setting up PCB home fabrication via CNC routing. Approximately $4,000 in parts and tools acquired, with roughly an equivalent amount remaining to be ordered.
 
-## Getting Started: The Golden Path
-There's a lot here. We recommend this path to understand the project:
+The first empirical milestone is stable multi-node interaction under engineered parameters, followed by re-entrant loop experiments using the visualization layer (RGB projection → AI camera → Hailo-10H pattern identification → bias signals back into the mesh).
 
-1. **Read the White Paper**: The core technical proposal. This is the blueprint for the entire AGI architecture.
-
-    - ***`Janus_Structural-Computing-White-Paper_v2_4_2025-10-20`***
-
-2. **Run the Simulation**: See the alignment architecture in action. This Python script is a proof-of-concept that simulates the FSI and OMEF mechanisms.
-
-    - ***`chamber.py`***
-
-3. **Explore the Cognitive Origins (Optional Deep Dive)**: Wondering where the FSI/OMEF model came from? It's not a sci-fi invention. It's grounded in a real, empirically validated cognitive framework.
-
-    - **The Synthesis**: Explains the complete cognitive model.
-        - ***`03_Integration_How_All_the_Elements_Work_Together.pdf`*** 
-
-    - **The Lived Experience**: A first-person narrative showing FSI/OMEF in daily life.  
-        - ***`07_Phenomenology_A_Day_Inside_the_Fog.pdf`***
-
-    - **The Data**: The psychometric data that provides an empirical anchor for the cognitive model.
-        - ***`08_Big_Five_Evaluation.pdf`***  
+The key empirical marker: state-dependent signal routing through the mesh, where the system's processing history demonstrably alters its response to subsequent input in ways not reducible to passive analog coupling.
 
 ---
 
-## Comprehensive Document Library (The Deep Dive)
-**The Resonant Architecture of Cognition**
+## Published Works
 
-For those interested in the full genesis and detailed exploration of the cognitive framework that underpins the Structural AI model, this library provides a complete guide.
+| Document | Description | Link |
+| :------- | :---------- | :--- |
+| **The Janus Architecture** (2026) | Complete specification - 199 pages, four parts, two appendices | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20364991.svg)](https://doi.org/10.5281/zenodo.20364991) |
+| **Diagnostic Convergences** (2026) | 33 independent convergences with established frameworks across 8 disciplines | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20116283.svg)](https://doi.org/10.5281/zenodo.20116283) |
+| **The Janus Thesis** (2026) | Foundational position paper on structural cognition | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19066376.svg)](https://doi.org/10.5281/zenodo.19066376) |
+| **Structural Computing** (2025) | Original whitepaper proposing the StrAI paradigm | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17399831.svg)](https://doi.org/10.5281/zenodo.17399831) |
+
+---
+
+## Historical Repository Contents
+
+This repository contains published papers, historical development materials, and the cognitive framework that preceded and informed the architecture.
 
 <details>
-<summary><strong>Click here to expand the full document list</strong></summary>
+<summary><strong>Cognitive Framework (Historical)</strong></summary>
 
----
+The Janus Architecture originated from a two-month recursive investigation of the author's own cognitive processes, conducted through first-person phenomenological observation and AI-assisted dialectic. The following documents record that process and the constructs it produced, including OMEF, FSI, and SCMF, which became foundational to the architecture's alignment and metabolic systems.
 
-### Part I: The Cognitive Framework - Theory & Origins
-These documents detail the Resonant Architecture of Cognition, a novel framework for understanding meaning-driven minds, which serves as the bio-inspired blueprint for the StrAI's alignment layer.
+- `00_a_The_TLDR.pdf` - Summary of the cognitive framework
+- `00_b_The_Framework_The_Resonant_Architecture_of_Cognition.pdf` - Formal framing document
+- `01_Foundations_Understanding_Meaning-Driven_Minds.pdf` - Core construct definitions
+- `02_Origins_The_Science_and_Story_Behind_the_Framework.pdf` - Methodology: Recursive LLM Co-Modeling Protocol
+- `03_Integration_How_All_the_Elements_Work_Together.pdf` - Meta-synthesis of all constructs
+- `04_Applications_Building_Systems_for_Cognitive_Diversity.pdf` - Implementation guide
+- `05_Blueprint_Designing_the_Future_Through_Transient_Expertise.pdf` - Transient Expertise paradigm
+- `06_Implications_Transforming_Society_Through_Understanding.pdf` - Societal implications
+- `07_Phenomenology_A_Day_Inside_the_Fog.pdf` - First-person phenomenological account
+- `08_Big_Five_Evaluation.pdf` - Psychometric data (Big Five Aspects Scale)
 
-- **`00_a_The_TLDR.pdf`**
+</details>
 
-    - _A concise, accessible summary of the entire cognitive framework, perfect for a quick, high-level understanding._
+<details>
+<summary><strong>Early Proof-of-Concept</strong></summary>
 
-- **`00_b_The_Framework_The_Resonant_Architecture_of_Cognition.pdf`**
-
-    - _The formal framing document that introduces the core constructs and provides a guide to the rest of the collection._
-
-- **`01_Foundations_Understanding_Meaning-Driven_Minds.pdf`**
-
-    - _Establishes the conceptual entry point, refining the definitions of OMEF, FSI, and SCMF and their interdisciplinary value._
-
-- **`02_Origins_The_Science_and_Story_Behind_the_Framework.pdf`**
-
-    - _Explains the "how": details the Recursive LLM Co-Modeling Protocol and the role of AI as an "epistemic mirror" in turning lived experience into formal constructs._
-
-- **`03_Integration_How_All_the_Elements_Work_Together.pdf`**
-
-    - _A meta-synthesis that unifies all constructs into a single, coherent system, showing how they interrelate and produce emergent properties._
-
----
-
-### Part II: The Cognitive Framework - Applications & Implications
-These documents explore the practical, real-world consequences of adopting this framework.
-
-- **`04_Applications_Building_Systems_for_Cognitive_Diversity.pdf`**
-
-    - _The implementation guide. Translates the theory into a practical blueprint for the Gestalt Systems Synthesis Environment (GSSE), a neuro-aligned ecosystem._
-
-- **`05_Blueprint_Designing_the_Future_Through_Transient_Expertise.pdf`**
-
-    - _Proposes a new paradigm for knowledge work called Transient Expertise (TE), a form of temporary, high-fidelity specialization facilitated by AI._
-
-- **`06_Implications_Transforming_Society_Through_Understanding.pdf`**
-
-    - _A transformation map exploring the broader societal, educational, and clinical impact of reframing neurodivergence as a high-bandwidth specialization._
-
----
-
-### Part III: The Source Data - Phenomenology & Psychometrics
-These are the primary source documents providing the raw phenomenological and empirical data upon which the framework is built.
-
-- **`07_Phenomenology_A_Day_Inside_the_Fog.pdf`**
-
-    - _A first-person narrative that provides a relatable, lived-experience account of OMEF, FSI, and SCMF in action._
-
-- **`08_Big_Five_Evaluation.pdf`**
-
-    - _The author's complete Big Five Aspects Scale (BFAS) results, which serve as the empirical, psychometric anchor for the framework's core constructs._
-
-
+- `chamber.py` - The Resonance Chamber: a Python simulation of the FSI/OMEF alignment mechanisms. This was the first functional demonstration of the constitutional safety architecture, preceding the hardware design. Historical artifact; the architecture has evolved substantially beyond what this script models.
 
 </details>
 
 ---
 
-## Project Status & Roadmap
+## Patent Pending
 
-- **Status**: Actively Developed. The foundational cognitive framework and the StrAI white paper are complete. The Persona Layer proof-of-concept is functional.
+Substrate-Instantiated Cognitive Organism Architecture Using Settlement-Based Analog Computation Under Consequence-Bearing Metabolic Constraint with Re-entrant Self-Observation
 
-- **Next Step**: Building the "Toy Universe Engine PoC" to demonstrate the end-to-end geometric engine on a constrained problem set. 
+**64/066,230** · *Filed May 15, 2026*
 
-We are actively seeking collaboration with researchers and engineers to build the "Toy Universe Engine PoC." If you have expertise in post-transformer architectures, geometric deep learning, or constitutional AI safety and are interested in contributing to a new paradigm, please reach out via the contact information below.
-
----
-
-## Publication & Citation
-
-See CITATION.md for details
+**U.S. Provisional Patent Application No. 64/066,230** - *Patent Pending
+Filed for The Janus Architecture: a substrate-instantiated cognitive organism framework using settlement-based analog computation, consequence-bearing metabolic constraint, re-entrant self-observation, and inherited state memory. The provisional specification is a 130-page technical disclosure covering the Body, Metabolism, Inheritance, and Ecology architectures of the system.*
 
 ---
 
-## About & Contact
+## Contact
 
-This project is the work of Anthony Janus, an independent researcher in cognitive architecture and AGI. The framework is derived from a first-principles analysis of a unique, neurodivergent cognitive profile, validated by psychometric data and a recursive co-modeling protocol with advanced AI.
-
-The author's background is not in traditional computer science or academia, but in the direct, phenomenological exploration of a meaning-driven mind. This has resulted in a novel, bio-inspired architecture that offers a fundamentally different path to safe and truthful AGI.
-
-<u>**Primary Point of Contact**</u>
-* **For strategic inquiries, collaborations, or media requests:**
-    * thecognitivearchitect@gmail.com
-
-<u>**General Contact**</u>
-* **Personal:**
-    * tonyjanus@gmail.com
-
-<u>**Professional Profile**</u>
-* **LinkedIn**: [Anthony Janus](https://www.linkedin.com/in/anthony-janus)
+- **Anthony Janus** - Independent Researcher
+- **Email:** thecognitivearchitect@gmail.com
+- **LinkedIn:** [Anthony Janus](https://www.linkedin.com/in/anthony-janus)
+- **YouTube:** [@Anthony_Janus](https://www.youtube.com/@Anthony_Janus)
 
 ---
 
-## License 
+## License
 
-The code PoC in this project (chamber.py) is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). 
+**The Janus Architecture** (complete specification) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Non-commercial use with attribution.
 
-The whitepaper ***Structural Computing for Deterministic AGI: A Constitutionally Aligned, Energy-Efficient Alternative to Probabilistic Models*** and full ***The Resonant Architecture of Cognition*** collection are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
+**Structural Computing**, **The Janus Thesis**, and **Diagnostic Convergences** are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-The hardware designs, schematics, BOMs, and any other hardware-related items are covered under [CERN Open Hardware Licence Version 2 - Permissive](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/3eff4154d05e7a0459f3ddbf0674cae4/cern_ohl_p_v2.txt)
+**The Resonant Architecture of Cognition** collection is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-See /LICENSE for the code (Apache-2.0) and /structural_AI_computing/LICENSE for the whitepaper (CC BY 4.0).
+**Code** (`chamber.py`) is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
-This is an open-source project intended to foster collaboration and accelerate the development of safe, truthful AGI.
+Hardware designs, schematics, and BOMs published **before** May 28, 2026 are covered under [CERN Open Hardware Licence Version 2 - Permissive](https://ohwr.org/cern_ohl_p_v2.txt).
+
+Hardware designs, schematics, and BOMs published **on or after** May 28, 2026 have yet to be decided, and this will be updated at the time of publishing.
 
 ---
 
-## Where's the hardware?
+<div align="center">
 
-In case you're wondering what happened with the "EoY 2025" hardware goal but haven't read the Founder's Letter, the goal to finish the build before the new year turned out to be too ambitious.
+*The machine is the question, stated in hardware.*
 
-The hardware is under active development, and the design has grown beyond its initial scope. As of January 3rd 2026, the machine is conceived as a ~40‑node analog RC mesh with digitally controlled node‑to‑node links and per‑node capacitor banks, forming a mixed‑signal substrate that physically settles to stable attractor states. The digital control and analog dynamics are deliberately isolated, allowing the system to be driven, observed, and reconfigured without disturbing the underlying physical collapse.
-
-It is designed as a proof‑of‑concept platform for a deterministic, structure‑first AI architecture introduced in the accompanying whitepaper.
-
-I am currently acquiring parts to build the machine, but as a disabled, independent researcher, resources are tight and I'm looking into funding options. Unfortunately, this means the time required to produce results has to be extended.
-
-I will be putting together some ways for supporters to contribute, should anyone see value in the project and its goals. Once I've figured out how I'll be going about that, I'll update this repo with more information.
-
-I'd like to thank you all for your interest and support. I cannot express how grateful I am. 
-
-Thank you
+</div>

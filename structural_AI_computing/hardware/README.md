@@ -11,6 +11,8 @@ The code PoC in this project (chamber.py) is licensed under the [Apache License 
 
 The whitepaper ***Structural Computing for Deterministic AGI: A Constitutionally Aligned, Energy-Efficient Alternative to Probabilistic Models*** and full ***The Resonant Architecture of Cognition*** collection are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 
-The hardware designs, schematics, BOMs, and any other hardware-related items are covered under [CERN Open Hardware Licence Version 2 - Permissive](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/3eff4154d05e7a0459f3ddbf0674cae4/cern_ohl_p_v2.txt)
+Hardware designs, schematics, and BOMs published **before** May 28, 2026 are covered under [CERN Open Hardware Licence Version 2 - Permissive](https://ohwr.org/cern_ohl_p_v2.txt).
+
+Hardware designs, schematics, and BOMs published **on or after** May 28, 2026 have yet to be decided, and this will be updated at the time of publishing.
 
 This is an open-source project intended to foster collaboration and accelerate the development of safe, truthful AGI.

@@ -21,7 +21,6 @@ the Resonant Architecture of Cognition.
 ## How to Reach Me
 - GitHub: The-Cognitive-Architect
 - Email: thecognitivearchitect@gmail.com
-- Alt Email: tonyjanus@gmail.com
 - LinkedIn: [LinkedIn - Anthony Janus](www.linkedin.com/in/anthony-janus)
 
 ## Intellectual Property
