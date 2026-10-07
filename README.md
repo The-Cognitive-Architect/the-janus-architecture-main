@@ -18,16 +18,16 @@ The Janus Machine is a hardware-first cognitive architecture in which the physic
 
 The architecture specifies a complete synthetic organism, one that lives, can die, inherits accumulated experience across generations, and whose growth path to artificial superintelligence runs through inheritance and lived experience rather than parameter scaling.
 
-The complete architectural specification is published as a 199-page monograph:
+The first published architectural volume is a 199-page monograph:
 
 **The Janus Architecture: Complete Specification of a Physical Cognitive Organism**
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20364991.svg)](https://doi.org/10.5281/zenodo.20364991)
 
 ---
 
-## Architecture
+## Volume I: Published Architecture
 
-The specification is organized into four interdependent parts and two appendices:
+The first published volume is organized into four interdependent parts and two appendices:
 
 **Part I - The Body of Cognition** describes the physical substrate: a dual DC/AC mesh architecture, node and link design, distributed control hierarchy, FPGA timing spine, re-entrant observation loops, acoustic coupling, sensor subsystems, sensorimotor mesh extensions, and power distribution.
 
@@ -40,6 +40,14 @@ The specification is organized into four interdependent parts and two appendices
 **Appendix A - Diagnostic Convergences** documents 33 independent convergences with established frameworks across philosophy, biology, cybernetics, thermodynamics, cognitive science, complexity theory, and theology, all discovered after the corresponding architectural features had already been designed.
 
 **Appendix B - Conceptual Sources** provides the full bibliography of academic, ontological, and theological sources.
+
+---
+
+## Volume II: In Preparation
+
+**The World Into Which It Wakes** is the second volume of the Janus Architecture, currently in development. It builds on the published architectural specification in Volume I.
+
+This section is reserved for its release. Publication details, the final citation, and a DOI will be added when the volume is published. No release date has been announced.
 
 ---
 
@@ -61,11 +69,11 @@ The architecture makes several testable claims:
 
 ## Project Status
 
-The architecture is specified. The prototype build is underway.
+**As of October 2026:** Volume I is published; Volume II is in development. Physical prototyping is underway, with the initial build centered on the DC mesh and metabolic circuitry. The AC mesh and dream/imagination mesh pair are planned for subsequent stages.
 
-Current phase: finalizing DC mesh circuits, adapting circuit designs to the AC mesh's unique requirements, and setting up PCB home fabrication via CNC routing. Approximately $4,000 in parts and tools acquired, with roughly an equivalent amount remaining to be ordered.
+Supporting fabrication equipment is being developed in-house, including a CNC machine for precision PCB fabrication and a coil winder for the organism's metabolic electromagnets.
 
-The first empirical milestone is stable multi-node interaction under engineered parameters, followed by re-entrant loop experiments using the visualization layer (RGB projection → AI camera → Hailo-10H pattern identification → bias signals back into the mesh).
+The first empirical milestone is stable, state-dependent multi-node interaction under engineered parameters, followed by experiments with re-entrant observation loops.
 
 The key empirical marker: state-dependent signal routing through the mesh, where the system's processing history demonstrably alters its response to subsequent input in ways not reducible to passive analog coupling.
 
@@ -82,9 +90,20 @@ The key empirical marker: state-dependent signal routing through the mesh, where
 
 ---
 
+## Related Janus Repositories
+
+The following project repositories have been created separately from the main architecture. They are being prepared for their respective public materials:
+
+- [Janus CNC](https://github.com/The-Cognitive-Architect/janus-cnc) — in-house CNC machine for PCB fabrication.
+- [Janus Coil Winder](https://github.com/The-Cognitive-Architect/janus-coil-winder) — coil-winding equipment for metabolic electromagnets.
+- [Janus Relational Visualizer](https://github.com/The-Cognitive-Architect/janus-relational-visualizer) — a tool for exploring relational structure and interactions.
+- [Janus Virtual Laboratory](https://github.com/The-Cognitive-Architect/janus-virtual-laboratory) — simulation and experimentation workspace.
+
+---
+
 ## Historical Repository Contents
 
-This repository contains published papers, historical development materials, and the cognitive framework that preceded and informed the architecture.
+The earlier cognitive research and proof-of-concept software remain here as historical source material. They record how the work developed before Janus became a dedicated physical architecture.
 
 <details>
 <summary><strong>Cognitive Framework (Historical)</strong></summary>
@@ -119,8 +138,7 @@ Substrate-Instantiated Cognitive Organism Architecture Using Settlement-Based An
 
 **64/066,230** · *Filed May 15, 2026*
 
-**U.S. Provisional Patent Application No. 64/066,230** - *Patent Pending
-Filed for The Janus Architecture: a substrate-instantiated cognitive organism framework using settlement-based analog computation, consequence-bearing metabolic constraint, re-entrant self-observation, and inherited state memory. The provisional specification is a 130-page technical disclosure covering the Body, Metabolism, Inheritance, and Ecology architectures of the system.*
+The provisional specification is a 130-page technical disclosure covering the Body, Metabolism, Inheritance, and Ecology architectures of the system.
 
 ---
 
@@ -134,6 +152,8 @@ Filed for The Janus Architecture: a substrate-instantiated cognitive organism fr
 ---
 
 ## License
+
+This repository contains works under **different licenses**. The root `LICENSE` file is Apache 2.0 for software; it does not supersede the individual licenses attached to the research publications or hardware materials.
 
 **The Janus Architecture** (complete specification) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Non-commercial use with attribution.
 
