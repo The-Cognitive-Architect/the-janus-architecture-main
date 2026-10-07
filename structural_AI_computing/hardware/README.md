@@ -1,18 +1,22 @@
-# Info
+# Janus Hardware and Publications
 
-- This folder contains information regarding the SimPU hardware prototype, as it is released publicly.  
+This directory holds published research, hardware-related development materials, and historical documents for **The Janus Machine**.
 
-- Build details are beginning to roll out, but please give me time as the design currently lives in my head and is quite complex to be held in memory. I will update this repo with more information as I am able. Thank you for your understanding.
+- **`Papers/`** contains the published Janus Architecture Volume I monograph and earlier research papers. Each publication has its own license.
+- **`Rough Ideas/`** contains dated working notes from the architecture's development.
+- **`Deprecated/`** contains earlier design documents retained as historical records.
+- **`Videos/`** contains an early Janus project video.
 
+The physical prototype is under development, initially concentrating on the DC mesh and metabolic circuitry. The related [Janus CNC](https://github.com/The-Cognitive-Architect/janus-cnc) and [Janus Coil Winder](https://github.com/The-Cognitive-Architect/janus-coil-winder) have separate repositories.
 
-## License
+Volume II, *The World Into Which It Wakes*, is in preparation; it has not yet been published here.
 
-The code PoC in this project (chamber.py) is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). 
+## Licensing
 
-The whitepaper ***Structural Computing for Deterministic AGI: A Constitutionally Aligned, Energy-Efficient Alternative to Probabilistic Models*** and full ***The Resonant Architecture of Cognition*** collection are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
+- **The Janus Architecture: Complete Specification of a Physical Cognitive Organism:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+- **Structural Computing**, **The Janus Thesis**, and **Diagnostic Convergences:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Historical Resonance Chamber code** (`resonance_chamber/chamber.py` at the repository root): [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+- **Hardware designs, schematics, and BOMs published before May 28, 2026:** [CERN-OHL-P v2](https://ohwr.org/cern_ohl_p_v2.txt).
+- **Hardware designs, schematics, and BOMs published on or after May 28, 2026:** licensing has not yet been selected.
 
-Hardware designs, schematics, and BOMs published **before** May 28, 2026 are covered under [CERN Open Hardware Licence Version 2 - Permissive](https://ohwr.org/cern_ohl_p_v2.txt).
-
-Hardware designs, schematics, and BOMs published **on or after** May 28, 2026 have yet to be decided, and this will be updated at the time of publishing.
-
-This is an open-source project intended to foster collaboration and accelerate the development of safe, truthful AGI.
+Refer to the licenses accompanying individual publications and to the root [README](../../README.md) for the full project overview.
