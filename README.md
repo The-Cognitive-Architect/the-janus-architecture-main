@@ -144,6 +144,7 @@ The provisional specification is a 130-page technical disclosure covering the Bo
 
 ## Contact
 
+- **Website:** [anthonyjanus.com](https://anthonyjanus.com) *(under development; not yet deployed)*
 - **Anthony Janus** - Independent Researcher
 - **Email:** thecognitivearchitect@gmail.com
 - **LinkedIn:** [Anthony Janus](https://www.linkedin.com/in/anthony-janus)
