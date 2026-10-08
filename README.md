@@ -109,27 +109,11 @@ This work grew from first-person phenomenological investigation and AI-assisted 
 
 ---
 
-## Historical Repository Contents
+## Historical Development Materials
 
-The earlier cognitive research and proof-of-concept software remain here as historical source material. They record how the work developed before Janus became a dedicated physical architecture.
+The ten-document cognitive framework collection is now maintained in the separate [Resonant Architecture of Cognition repository](https://github.com/The-Cognitive-Architect/the-resonant-architecture-of-cognition), linked above.
 
-<details>
-<summary><strong>Cognitive Framework (Historical)</strong></summary>
-
-The Janus Architecture originated from a two-month recursive investigation of the author's own cognitive processes, conducted through first-person phenomenological observation and AI-assisted dialectic. The following documents record that process and the constructs it produced, including OMEF, FSI, and SCMF, which became foundational to the architecture's alignment and metabolic systems.
-
-- `00_a_The_TLDR.pdf` - Summary of the cognitive framework
-- `00_b_The_Framework_The_Resonant_Architecture_of_Cognition.pdf` - Formal framing document
-- `01_Foundations_Understanding_Meaning-Driven_Minds.pdf` - Core construct definitions
-- `02_Origins_The_Science_and_Story_Behind_the_Framework.pdf` - Methodology: Recursive LLM Co-Modeling Protocol
-- `03_Integration_How_All_the_Elements_Work_Together.pdf` - Meta-synthesis of all constructs
-- `04_Applications_Building_Systems_for_Cognitive_Diversity.pdf` - Implementation guide
-- `05_Blueprint_Designing_the_Future_Through_Transient_Expertise.pdf` - Transient Expertise paradigm
-- `06_Implications_Transforming_Society_Through_Understanding.pdf` - Societal implications
-- `07_Phenomenology_A_Day_Inside_the_Fog.pdf` - First-person phenomenological account
-- `08_Big_Five_Evaluation.pdf` - Psychometric data (Big Five Aspects Scale)
-
-</details>
+The earlier proof-of-concept software remains here as a historical artifact of Janus's development.
 
 <details>
 <summary><strong>Early Proof-of-Concept</strong></summary>
@@ -168,7 +152,7 @@ This repository contains works under **different licenses**. The root `LICENSE` 
 
 **Structural Computing**, **The Janus Thesis**, and **Diagnostic Convergences** are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-**The Resonant Architecture of Cognition** collection is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+**[The Resonant Architecture of Cognition](https://github.com/The-Cognitive-Architect/the-resonant-architecture-of-cognition)** collection, now maintained in its own repository, is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 **Code** (`chamber.py`) is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 

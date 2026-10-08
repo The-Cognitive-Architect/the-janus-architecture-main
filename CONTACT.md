@@ -4,7 +4,7 @@ I'm Anthony Janus, an independent researcher and the creator of **The Janus Mach
 
 ## Research
 
-Janus grew out of my earlier investigation of cognition, documented in *The Resonant Architecture of Cognition*, and developed into a physical hardware architecture through extensive research and AI-assisted co-development.
+Janus grew out of my earlier investigation of cognition, documented in [*The Resonant Architecture of Cognition*](https://github.com/The-Cognitive-Architect/the-resonant-architecture-of-cognition), and developed into a physical hardware architecture through extensive research and AI-assisted co-development.
 
 The current work encompasses analog cognitive meshes, consequence-bearing metabolic circuits, memory and inheritance, re-entrant observation, and the fabrication and control systems needed to build and study the prototype. Volume I of the architecture is [published on Zenodo](https://doi.org/10.5281/zenodo.20364991). Volume II, *The World Into Which It Wakes*, is in development.
 
