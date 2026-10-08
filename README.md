@@ -101,6 +101,14 @@ The following project repositories have been created separately from the main ar
 
 ---
 
+## The Resonant Architecture of Cognition
+
+The original cognitive framework now has its own repository: **[The Resonant Architecture of Cognition](https://github.com/The-Cognitive-Architect/the-resonant-architecture-of-cognition)**.
+
+This work grew from first-person phenomenological investigation and AI-assisted co-modeling of meaning, cognition, and neurodivergence. It is a distinct research collection and an intellectual precursor to the physical Janus Architecture.
+
+---
+
 ## Historical Repository Contents
 
 The earlier cognitive research and proof-of-concept software remain here as historical source material. They record how the work developed before Janus became a dedicated physical architecture.
