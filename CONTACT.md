@@ -12,6 +12,7 @@ I'm open to substantive research discussion, technical collaboration, and inquir
 
 ## How to Reach Me
 
+- **Website:** [anthonyjanus.com](https://anthonyjanus.com) *(under development; not yet deployed)*
 - **Email:** thecognitivearchitect@gmail.com
 - **GitHub:** [The-Cognitive-Architect](https://github.com/The-Cognitive-Architect)
 - **LinkedIn:** [Anthony Janus](https://www.linkedin.com/in/anthony-janus)
