@@ -11,6 +11,8 @@ The physical prototype is under development, initially concentrating on the DC m
 
 Volume II, *The World Into Which It Wakes*, is in preparation; it has not yet been published here.
 
+The official Janus project website, [anthonyjanus.com](https://anthonyjanus.com), is under development and has not yet been deployed.
+
 ## Licensing
 
 - **The Janus Architecture: Complete Specification of a Physical Cognitive Organism:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
