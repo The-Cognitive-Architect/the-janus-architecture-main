@@ -20,4 +20,4 @@ I'm open to substantive research discussion, technical collaboration, and inquir
 
 ## Publications and Licensing
 
-See [CITATION.md](CITATION.md) for published works and [the README's license section](README.md#license) for the distinct licenses covering publications, code, and hardware.
+See [CITATION.md](CITATION.md) for published works and [LICENSES.md](LICENSES.md) for the distinct licenses covering publications, code, and hardware.

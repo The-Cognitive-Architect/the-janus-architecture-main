@@ -79,14 +79,31 @@ The key empirical marker: state-dependent signal routing through the mesh, where
 
 ---
 
+## Repository Layout
+
+- **[publications/](publications/)** — published research papers, organized by work with their individual license files.
+  - [Volume I](publications/volume-i/) — *The Janus Architecture: Complete Specification of a Physical Cognitive Organism*.
+  - [The Janus Thesis](publications/the-janus-thesis/) — foundational position paper.
+  - [Diagnostic Convergences](publications/diagnostic-convergences/) — independent diagnostic convergences.
+  - [Structural Computing](publications/structural-computing/) — the original whitepaper.
+- **[development/early-design-notes/](development/early-design-notes/)** — dated architectural descriptions, preliminary schematics, and an early build log.
+- **[development/rough-notes/](development/rough-notes/)** — original working notes and braindump addenda.
+- **[media/](media/)** — Janus project video.
+- **[historical/](historical/)** — early communications, the Resonance Chamber proof of concept, and earlier repository documents.
+- **[LICENSES.md](LICENSES.md)** — license index for the distinct types of material in this repository.
+
+Volume II, *The World Into Which It Wakes*, is in preparation and will be added to the publications directory when released.
+
+---
+
 ## Published Works
 
 | Document | Description | Link |
 | :------- | :---------- | :--- |
-| **The Janus Architecture** (2026) | Complete specification - 199 pages, four parts, two appendices | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20364991.svg)](https://doi.org/10.5281/zenodo.20364991) |
-| **Diagnostic Convergences** (2026) | 33 independent convergences with established frameworks across 8 disciplines | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20116283.svg)](https://doi.org/10.5281/zenodo.20116283) |
-| **The Janus Thesis** (2026) | Foundational position paper on structural cognition | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19066376.svg)](https://doi.org/10.5281/zenodo.19066376) |
-| **Structural Computing** (2025) | Original whitepaper proposing the StrAI paradigm | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17399831.svg)](https://doi.org/10.5281/zenodo.17399831) |
+| **The Janus Architecture** (2026) | Complete specification - 199 pages, four parts, two appendices | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20364991.svg)](https://doi.org/10.5281/zenodo.20364991) · [Repository PDF](publications/volume-i/The%20Janus%20Architecture%20-%20Complete%20Specification%20of%20a%20Physical%20Cognitive%20Organism.pdf) |
+| **Diagnostic Convergences** (2026) | 33 independent convergences with established frameworks across 8 disciplines | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20116283.svg)](https://doi.org/10.5281/zenodo.20116283) · [Repository PDF](publications/diagnostic-convergences/Diagnostic%20Convergences%20of%20The%20Janus%20Machine%20-%20Independent%20Derivation%20and%20the%20Structure%20of%20Life,%20Mind,%20and%20Meaning.pdf) |
+| **The Janus Thesis** (2026) | Foundational position paper on structural cognition | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19066376.svg)](https://doi.org/10.5281/zenodo.19066376) · [Repository PDF](publications/the-janus-thesis/the-janus-thesis_2026-03-17.pdf) |
+| **Structural Computing** (2025) | Original whitepaper proposing the StrAI paradigm | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17399831.svg)](https://doi.org/10.5281/zenodo.17399831) · [Repository PDF](publications/structural-computing/Janus_Structural-Computing-White-Paper_v2_4_2025-10-20.pdf) |
 
 ---
 
@@ -111,16 +128,10 @@ This work grew from first-person phenomenological investigation and AI-assisted 
 
 ## Historical Development Materials
 
-The ten-document cognitive framework collection is now maintained in the separate [Resonant Architecture of Cognition repository](https://github.com/The-Cognitive-Architect/the-resonant-architecture-of-cognition), linked above.
+Earlier communications, repository records, and the [Resonance Chamber proof-of-concept](historical/resonance-chamber/chamber.py) are collected under [historical/](historical/). The original hardware-related notes from the project's earlier stages are collected under [development/early-design-notes/](development/early-design-notes/).
 
-The earlier proof-of-concept software remains here as a historical artifact of Janus's development.
+These records preserve the development history of Janus; the current architectural account is presented in the published volumes.
 
-<details>
-<summary><strong>Early Proof-of-Concept</strong></summary>
-
-- `chamber.py` - The Resonance Chamber: a Python simulation of the FSI/OMEF alignment mechanisms. This was the first functional demonstration of the constitutional safety architecture, preceding the hardware design. Historical artifact; the architecture has evolved substantially beyond what this script models.
-
-</details>
 
 ---
 
@@ -146,7 +157,7 @@ The provisional specification is a 130-page technical disclosure covering the Bo
 
 ## License
 
-This repository contains works under **different licenses**. The root `LICENSE` file is Apache 2.0 for software; it does not supersede the individual licenses attached to the research publications or hardware materials.
+This repository contains works under **different licenses**. See [LICENSES.md](LICENSES.md) for the license index and the individual license files accompanying the publications, historical software, and hardware materials.
 
 **The Janus Architecture** (complete specification) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Non-commercial use with attribution.
 
@@ -154,9 +165,9 @@ This repository contains works under **different licenses**. The root `LICENSE` 
 
 **[The Resonant Architecture of Cognition](https://github.com/The-Cognitive-Architect/the-resonant-architecture-of-cognition)** collection, now maintained in its own repository, is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-**Code** (`chamber.py`) is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+**Historical Resonance Chamber code** ([`chamber.py`](historical/resonance-chamber/chamber.py)) is licensed under [Apache License 2.0](historical/resonance-chamber/LICENSE).
 
-Hardware designs, schematics, and BOMs published **before** May 28, 2026 are covered under [CERN Open Hardware Licence Version 2 - Permissive](https://ohwr.org/cern_ohl_p_v2.txt).
+Hardware designs, schematics, and BOMs published **before** May 28, 2026 are covered under the [CERN Open Hardware Licence Version 2 - Permissive](licenses/CERN-OHL-P-2.0.txt).
 
 Hardware designs, schematics, and BOMs published **on or after** May 28, 2026 have yet to be decided, and this will be updated at the time of publishing.
 
